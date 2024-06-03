@@ -26,9 +26,8 @@ The primary objectives of this project are:
 #### Scholarships: 
 30.8% of the students received scholarships.
 #### Major and Minor Subjects: 
-- 8 major subjects were there BIO-TECNOLOGY, BOTANY, CHEMISTRY, COMPUTER APPLICATION, ELECTRONICS, INDUSTRIAL CHEMISTRY, INDUSTRIALMICROBIOLOGY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY
-![image](https://github.com/anjali-thawani/College-Admissions-Data-Analysis/assets/168136647/a9ec98a1-cd4c-4c6e-9c4c-d89d3f6ffcee)
-
+- 11 major subjects were there BIO-TECNOLOGY, BOTANY, CHEMISTRY, COMPUTER APPLICATION, ELECTRONICS, INDUSTRIAL CHEMISTRY, INDUSTRIALMICROBIOLOGY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY.
+- 8 minor subjects were there  BOTANY, CHEMISTRY, COMPUTER APPLICATION, INDUSTRIAL CHEMISTRY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY.
 - 109 students took Botany as their major subject, the highest among all majors .
 - 177 students took Chemistry as their minor subject.
 
