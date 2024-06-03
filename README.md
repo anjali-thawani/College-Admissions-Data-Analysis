@@ -18,5 +18,25 @@ The primary objectives of this project are:
 - Data Visualization :- Bar charts, column charts, pie chart and pivot tables.
 - Creating a Dashboard:- Combine Visuals, Interactive Elements, Layout and Design
 
+## Key Insights
+#### Admission Rounds: 
+7 rounds of admission were conducted.
+#### Total Admissions: 
+422 students were admitted.
+#### Scholarships: 
+30.8% of the students received scholarships.
+#### Major and Minor Subjects: 
+- 8 major subjects were there BIO-TECNOLOGY, BOTANY, CHEMISTRY, COMPUTER APPLICATION, ELECTRONICS, INDUSTRIAL CHEMISTRY, INDUSTRIALMICROBIOLOGY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY
+![image](https://github.com/anjali-thawani/College-Admissions-Data-Analysis/assets/168136647/a9ec98a1-cd4c-4c6e-9c4c-d89d3f6ffcee)
+
+- 109 students took Botany as their major subject, the highest among all majors .
+- 177 students took Chemistry as their minor subject.
+
+#### Category-wise Distribution:
+- 36 students belong to the OBC category.
+- 16 students belong to the SC category.
+- 19 students belong to the ST category.
+- 347 students belong to the General category.
+
 
 
