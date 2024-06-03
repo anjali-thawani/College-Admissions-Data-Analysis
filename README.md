@@ -23,6 +23,9 @@ The primary objectives of this project are:
 7 rounds of admission were conducted.
 #### Total Admissions: 
 422 students were admitted.
+
+![Screenshot (255) - Copy](https://github.com/anjali-thawani/College-Admissions-Data-Analysis/assets/168136647/7e3b119f-72ca-47e8-884a-373b2cb5b367)
+
 #### Scholarships: 
 30.8% of the students received scholarships.
 #### Major and Minor Subjects: 
