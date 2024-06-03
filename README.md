@@ -21,6 +21,10 @@ The primary objectives of this project are:
 ## Key Insights
 #### Admission Rounds: 
 7 rounds of admission were conducted.
+
+![Screenshot (255)](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/526e593a-a2be-4f55-a3a6-d279d77e5a83)
+
+![rounds](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/af8d9cce-8d92-401a-8cc2-276bd900f7b4)
 #### Total Admissions: 
 422 students were admitted.
 
@@ -28,11 +32,19 @@ The primary objectives of this project are:
 
 #### Scholarships: 
 30.8% of the students received scholarships.
+
+![Screenshot (256) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/b9281784-9b74-4bae-8c60-bf6a78aa4d1f)
 #### Major and Minor Subjects: 
 - 11 major subjects were there BIO-TECNOLOGY, BOTANY, CHEMISTRY, COMPUTER APPLICATION, ELECTRONICS, INDUSTRIAL CHEMISTRY, INDUSTRIALMICROBIOLOGY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY.
 - 8 minor subjects were there  BOTANY, CHEMISTRY, COMPUTER APPLICATION, INDUSTRIAL CHEMISTRY, MATHEMATICS, PHYSICS, STATISTICS, ZOOLOGY.
 - 109 students took Botany as their major subject, the highest among all majors .
 - 177 students took Chemistry as their minor subject.
+
+  ![major sub](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/ce94aafe-2558-4127-9407-ee7234d26755)
+![Screenshot (258) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/3d47a96d-5053-45e5-be4f-e22682925cf2)
+
+![minor sub](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/dcd6f774-baf8-4509-9ed5-a59151acaac0)
+![Screenshot (257) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/deeb8655-9b1f-4e2c-ba56-ed8cd431136f)
 
 #### Category-wise Distribution:
 - 36 students belong to the OBC category.
