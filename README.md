@@ -51,6 +51,12 @@ The primary objectives of this project are:
 - 16 students belong to the SC category.
 - 19 students belong to the ST category.
 - 347 students belong to the General category.
+  
+![Screenshot (257)](https://github.com/anjali-thawani/College-Admissions-Data-Analysis/assets/168136647/7146ec0a-df8f-4146-aeb2-c37b79e15d98)
+
+## Dashboard
+
+![Screenshot (259) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/6708d736-dcd6-4926-906c-6d4715fe1a78)
 
 
 
