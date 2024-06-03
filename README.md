@@ -1,5 +1,7 @@
 # College-Admissions-Data-Analysis
 
+![Screenshot (259) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/6708d736-dcd6-4926-906c-6d4715fe1a78)
+
 ## Overview of B.Sc. Girls Admission Data Analysis
 
 This report presents a detailed analysis of the admission data for B.Sc. girls, utilizing various Excel tools and features to uncover key insights. The analysis involved data cleaning, visualization, and dashboarding using charts, pivot tables, formulas, and conditional formatting. The primary goal was to understand the distribution and trends within the dataset and provide a comprehensive overview of the admissions process and student demographics
@@ -54,9 +56,9 @@ The primary objectives of this project are:
   
 ![Screenshot (257)](https://github.com/anjali-thawani/College-Admissions-Data-Analysis/assets/168136647/7146ec0a-df8f-4146-aeb2-c37b79e15d98)
 
-## Dashboard
 
-![Screenshot (259) - Copy](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/6708d736-dcd6-4926-906c-6d4715fe1a78)
+
+
 
 
 
